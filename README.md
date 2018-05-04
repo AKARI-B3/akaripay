@@ -1,6 +1,6 @@
 # akaripay
-One-file Bitcoin Cash payment/donate page
-Responsive, Cross-browser, Tablet/Smartphone Friendly, 3 Payment options (QR/Copy/Mobile)
+One-file Bitcoin Cash payment/donate page      
+Responsive, Cross-browser, Tablet/Smartphone Friendly, 3 Payment options (QR/Copy/Mobile)  
 
 Instructions:
 
