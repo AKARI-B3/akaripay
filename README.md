@@ -5,7 +5,7 @@ Instructions:
 
 1. Upload the .html file to a web-server that you own. 
 
-2  Rename the .html filename to have your CashAddr instead (be sure not to remove the prefix or file extension).
+2. Rename the .html filename to have your CashAddr instead (be sure not to remove the prefix or file extension).
 
 3. Simply link a button or href to your new .html page location. Done!
 
