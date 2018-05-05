@@ -3,8 +3,9 @@ One-file Bitcoin Cash payment/donate page
 (No code-editing required!) Responsive, Cross-browser, Tablet/Smartphone Friendly, 3 Payment options (QR/Copy/Mobile)  
 
 
-<a href="http://agf.earth/addr=qrrk8mndzxvkpme3mufwaenl70zljzsgvgv6rvmx8r.html">Demo</a>
+<a href="http://agf.earth/addr=qrrk8mndzxvkpme3mufwaenl70zljzsgvgv6rvmx8r.html">Demo</a><br>
 
+<a href="http://agf.earth/addr=qrrk8mndzxvkpme3mufwaenl70zljzsgvgv6rvmx8r.html"><img src="http://agf.earth/donate_button_mini.png"></a>
 
 Instructions:
 
