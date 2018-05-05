@@ -7,6 +7,9 @@ One-file Bitcoin Cash payment/donate page
 <a href="http://agf.earth/addr=qrrk8mndzxvkpme3mufwaenl70zljzsgvgv6rvmx8r.html">Demo Link</a><br>
 
 
+<a href="https://github.com/AKARI-B3/akaripay"><img src="http://agf.earth/akari_pay_info.png"></a>
+
+
 Instructions:
 
 1. Rename the .html filename to have your Bitcoin Cash address (CashAddr) instead.    
