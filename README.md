@@ -28,4 +28,6 @@ COMING SOON: Legacy Address option.
 
 AKARI GLOBAL FOUNDATION - <a href="http://agf.earth">AGF.EARTH</a>
 
+-----
+Thank you to BITBOX for the awesome REST API! https://rest.bitbox.earth/
 
