@@ -1,0 +1,5 @@
+Your donation supports projects like 
+<a target="nw" href="https://github.com/AKARI-B3/akaripay">akaripay</a>, as well as
+ raises funds to launch new Bitcoin Cash global adoption projects. For more info visit our 
+ <a target="nw" href="http://webchat.freenode.net/?randomnick=1&channels=%23akari&prompt=1">Dev-Chat</a> or 
+ foundation website at <a target="nw" href="http://agf.earth">AGF.EARTH</a><br>
