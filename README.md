@@ -46,7 +46,9 @@ AKARI-PAY Advanced has all akaripay features (fully responsive, device friendly,
 
 Instructions for AKARI-PAY Advanced: 
 1. Upload the .html file after renaming it to have your Bitcoin Cash address.
-2. Edit the .txt files and upload them to the same directory. Colors are specified in hex, you can use a simple tool like this: https://www.w3schools.com/colors/colors_picker.asp to pick your color scheme. Make sure you refresh your cache after uploading new .txt files otherwise your changes may not appear.
+2. Upload the text files to the same folder, then edit the .txt files. Colors are specified in hex, you can use a simple tool like this: https://www.w3schools.com/colors/colors_picker.asp to pick your color scheme. Make sure you refresh your cache after uploading new .txt files otherwise your changes may not appear.
+
+If you get stuck or need any help, ask us anything in our <a href="http://webchat.freenode.net/?randomnick=1&channels=%23akari&prompt=1">Dev-Chat</a>!
 
 -----
 
