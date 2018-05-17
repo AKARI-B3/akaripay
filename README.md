@@ -24,7 +24,31 @@ Keep your page self-hosted. When you browse to your page, it will use the filena
 
 OPTIONAL: Are you looking for a way to show how much people have donated? Use the file labelled includes_total_donated, simply rename it to .html instead (without anything extra).
 
-COMING SOON: Legacy Address option.
+-----
+
+UPDATE:
+AKARI-PAY Advanced Released
+
+Raise funds for anything using Bitcoin Cash.
+
+AKARI-PAY Advanced has all akaripay features (fully responsive, device friendly, etc) but includes:
+
+* Easily title your self-hosted fund page.
+* Specify a short donation incentive message (Why donate?)
+* Set a Fundraising Goal!
+* You can include your first goal in the Why Donate area.
+* Goal Graph! (Fills up automatically thanks to http://rest.bitbox.earth/ api!)
+* Instant feedback when a donation comes in, included an instant estimate of received funds.
+* Live updating donation count!
+* Live updating total donations received!
+* Flexible Color Themes (Easily update themes, by simply editing .txt files)
+* Completely match the branding of your organization.
+
+Instructions for AKARI-PAY Advanced: 
+1. Upload the .html file after renaming it to have your Bitcoin Cash address.
+2. Edit the .txt files and upload them to the same directory. Colors are specified in hex, you can use a simple tool like this: https://www.w3schools.com/colors/colors_picker.asp to pick your color scheme. Make sure you refresh your cache after uploading new .txt files otherwise your changes may not appear.
+
+-----
 
 AKARI GLOBAL FOUNDATION - <a href="http://agf.earth">AGF.EARTH</a>
 
