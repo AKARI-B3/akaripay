@@ -188,6 +188,7 @@ document.getElementById("app").setAttribute('href', result);
    var percentofgoal = (Math.floor((data.totalReceived / goal) * 100)+"%"); 
    document.getElementById('percent').innerHTML = (percentofgoal); 
    document.getElementById('goal').innerHTML = (goal); 
+   document.getElementById('goalcount').innerHTML = (window.value8); 
 
 	var quart = (percentage/4 | 0);
 	var total = 100;
@@ -284,7 +285,7 @@ $('#suggestedamt').load("suggested_amt.txt");
 	<div class="lighter" style="color:#b8d7c4;text-align:center;margin:auto;font-size:0.7em;"><span class="regularfont" style="font-size:2em;color:#d7e6dd;position:relative;top:2px;" id="output2">—</span>&nbsp; Transactions</div>
 	<div class="lighter" style="color:#b8d7c4;text-align:center;margin:auto;font-size:0.7em;">Est.Addition: <span id="output1">—</span> BCH - THANK YOU!</div>
 	<div style="text-align:center;margin:auto;padding-bottom:2px;font-size:1.2em;"><b>Total</b> Donated: <span id="output">[loading]</span> <b><a class="lighter" style="text-decoration:none;color:#efe;" target="nw" href="https://tools.bitcoin.com/bitcoin-cash-converter/">BCH</a></b></div>
-	<div class="lighter" style="color:#b8d7c4;text-align:center;margin:auto;padding-bottom:2px;font-size:0.7em;"><b>Goal (<span id="goal">[-]</span> 
+	<div class="lighter" style="color:#b8d7c4;text-align:center;margin:auto;padding-bottom:2px;font-size:0.7em;"><b>Goal #<span id="goalcount">-</span>(<span id="goal">[-]</span> 
 	<b><a class="lighter" style="text-decoration:none;color:#efe;" target="nw" href="https://tools.bitcoin.com/bitcoin-cash-converter/">BCH</a></b>):</div>
 
 	<div style="width:100%;text-align:center;margin:auto;background-color:none;">
@@ -348,6 +349,12 @@ li#bar{padding:0px;margin:0px;color:#fff;}li#barfill{color:#778;}
     window.value7 = (fontbutton);
 	$(".button").css("color", window.value7);	
 	});
+	
+	$.get("currentgoalnum.txt", function(currentgoalnum) {
+	var goalcount = currentgoalnum;
+    window.value8 = (goalcount);
+	});
+	
 	
 </script>
 
