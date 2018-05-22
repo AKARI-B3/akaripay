@@ -60,4 +60,4 @@ AKARI GLOBAL FOUNDATION - <a href="http://agf.earth">AGF.EARTH</a>
 
 -----
 Thank you to BITBOX for the awesome REST API! https://rest.bitbox.earth/
-
+FOSS AKARI-PAY uses MIT Licence: https://opensource.org/licenses/MIT    
