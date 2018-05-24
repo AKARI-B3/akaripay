@@ -13,8 +13,8 @@ One-file Bitcoin Cash payment/donate page
 Instructions:
 
 1. Rename the .html filename to have your Bitcoin Cash address (CashAddr) instead.    
-(Be sure not to remove the "addr=" prefix or file extension, don't include the "bitcoincash:" prefix on the filename).     
-It should look something like this: addr=qyb8z6f73youraddress741vz9betc.html    
+(Be sure not to remove the "addr=" prefix or file extension, don't include the "bitcoincash:" cashaddr prefix on the filename).     
+It should look something like this: addr=qyb8z6f73youraddress741vz9betc.html (CashAddr, typically starts with a q)    
 
 2. Upload the .html file to a web-server that you own.    
 
@@ -45,8 +45,8 @@ AKARI-PAY Advanced has all akaripay features (fully responsive, device friendly,
 * Completely match the branding of your organization.
 
 Instructions for AKARI-PAY Advanced: 
-1. Upload the .html file in the 'advanced' folder after renaming it to have your Bitcoin Cash address.
-2. Upload the text files to the same folder, then edit the .txt files. Colors are specified in hex, you can use a simple tool like this: https://www.w3schools.com/colors/colors_picker.asp to pick your color scheme. Make sure you refresh your cache after uploading new .txt files otherwise your changes may not appear.
+1. Upload the .html file in the 'advanced' folder after renaming it to have your Bitcoin Cash address. (Make sure it is from the new CashAddr format: http://agf.earth/guide/akaripages/images/cashaddress-892.jpg)
+2. Upload the text files to the same folder, then edit the .txt files. Colors are specified in hex, you can use a simple tool like this: https://www.w3schools.com/colors/colors_picker.asp to pick your color scheme. Make sure you refresh your cache after uploading new .txt files otherwise your changes may not appear. Be sure to change the fund_title.txt
 
 If you get stuck or need any help, ask us anything in our <a href="http://webchat.freenode.net/?randomnick=1&channels=%23akari&prompt=1">Dev-Chat</a>!
 
