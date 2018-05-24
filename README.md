@@ -50,9 +50,10 @@ Instructions for AKARI-PAY Advanced:
 
 If you get stuck or need any help, ask us anything in our <a href="http://webchat.freenode.net/?randomnick=1&channels=%23akari&prompt=1">Dev-Chat</a>!
 
-Our next goal: 
+-----
 
-* Create several pre-made themes, all you do is you download a zipped pack of themed .txt files from a showcase and replace the ones you're currently using.
+UPDATE 2:
+<a href="https://github.com/AKARI-B3/akaripages">AKARI-PAGES</a> LAUNCHED, a professional-looking, clean and detailed, customizable, fundraising page that links to your akaripay payment/donation link, that you can host completely for free using Github.io Pages (or bitbucket!). See the <A href="http://agf.earth/guide/akaripages">visual guide here</a>.
 
 -----
 
