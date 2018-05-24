@@ -1,1 +1,1 @@
-Loading Fund Title
+Your Fund Title (edit fund_title.txt)
