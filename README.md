@@ -6,6 +6,9 @@ One-file Bitcoin Cash payment/donate page
 
 <a href="http://agf.earth/addr=qrrk8mndzxvkpme3mufwaenl70zljzsgvgv6rvmx8r.html">Demo Link</a><br>
 
+<br>
+UPDATE: See <a href="https://github.com/AKARI-B3/apb">APB (AKARI-PAGES BUILDER)</a> for the latest version of AKARI-PAGES, a more recent version of AKARI-PAY, and the Builder tool as a much easier to use 'all-in-one' bundle: https://github.com/AKARI-B3/apb 
+<br>
 
 <a href="https://github.com/AKARI-B3/akaripay"><img src="http://agf.earth/akari_pay_info.png"></a>
 
