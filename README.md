@@ -21,7 +21,7 @@ It should look something like this: addr=qyb8z6f73youraddress741vz9betc.html (Ca
 
 2. Upload the .html file to a web-server that you own.    
 
-3. Simply link a button or href to your new .html page location. Done!    
+3. Simply [link](https://www.scaler.com/topics/html/html-links/) a button or href to your new .html page location. Done!    
 
 Keep your page self-hosted. When you browse to your page, it will use the filename to prepare the payment page with included QR, copy-paste address, or mobile payment options.  Since it is self-hosted on your own servers, that gives users more trust who are looking to pay or donate. If you're worried about it being modified via the FTP, setup an ftp monitor to alert you if files are changed. Enjoy your new payment / donate page!
 
